@@ -4,12 +4,16 @@ when:
 
 steps:
   generate:
+    when:
+      event: [tag, push]
     image: codeberg.org/gameplayer-8/markdown-html
 
     commands:
       - sh worker.sh
 
   publish:
+    when:
+      event: [tag, push]
     image: codeberg.org/gameplayer-8/gitio
 
     commands:
