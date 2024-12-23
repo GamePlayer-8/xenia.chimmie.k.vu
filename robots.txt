@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /
+
+User-agent: chimmieyacy
+Allow: /
+
+User-agent: chimmieyacy https://search.chimmie.k.vu
+Allow: /
+
+User-agent: ia_archiver
+Disallow: /

@@ -1,0 +1,25 @@
+:root {
+    --credits-coloring: #ffffff;
+    --credits-opacity: 20%;
+}
+
+.credits { 
+    * {
+        color: var(--credits-coloring);
+    }
+
+    img {
+        display: inline-block;
+        vertical-align: middle;
+    }
+}
+
+.credits {
+    color: var(--credits-coloring);
+    opacity: var(--credits-opacity);
+    background-image: none;
+    box-shadow: none;
+    justify-content: center;
+    text-align: center;
+    padding-top: 25px;
+}
