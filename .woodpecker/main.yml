@@ -22,5 +22,5 @@ steps:
       - gitio branch GIT_BRANCH:"$SYSTEM_BRANCH"
 
     environment:
-      USERNAME:
+      SYSTEM_TOKEN_PASSWD:
         from_secret: SYSTEM_TOKEN_PASSWD
