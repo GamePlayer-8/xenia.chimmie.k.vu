@@ -21,5 +21,6 @@ steps:
       - if [ "$(basename "$CI_COMMIT_REF")" = "main" ]; then export SYSTEM_BRANCH="pages"; fi
       - gitio branch GIT_BRANCH:"$SYSTEM_BRANCH"
 
-    secrets:
-      - SYSTEM_TOKEN_PASSWD
+    environment:
+      USERNAME:
+        from_secret: SYSTEM_TOKEN_PASSWD
