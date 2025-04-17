@@ -5,7 +5,7 @@ when:
 steps:
   generate:
     when:
-      event: [tag, push]
+      event: [tag, push, manual]
     image: codeberg.org/gameplayer-8/markdown-html
 
     commands:
@@ -13,7 +13,7 @@ steps:
 
   publish:
     when:
-      event: [tag, push]
+      event: [tag, push, manual]
     image: codeberg.org/gameplayer-8/gitio
 
     commands:
