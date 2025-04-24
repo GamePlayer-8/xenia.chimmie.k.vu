@@ -7,4 +7,4 @@ Her hair shape is unusual / different than the rest. Made on warm color gamma.
 
 She's looking directly at the viewer with a brown t-shirt and shiny green pants.
 
-License under CC 1.0.
+Licensed under CC0 1.0.

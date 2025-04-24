@@ -8,4 +8,5 @@ In the corners of the drawing there are purple plants & leaves visible with a li
 
 In the background there's stars and mostly a blurry sunrise.
 
-Vector drawing has been fully made with GIMP + Inkscape, licensed under CC by NC-SA, by Chimmie Firefly.
+Licensed under CC BY-NC-SA 4.0.
+Vector drawing has been fully made with GIMP + Inkscape.

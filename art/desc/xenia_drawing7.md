@@ -4,4 +4,4 @@
 
 A phone wallpaper showing edited Fediverse logo with Xenia sitting on the pillows. Dominating color gamma is pink / red.
 
-License under CC by NC-SA 1.0.
+License under CC BY-NC-SA 4.0.

@@ -3,3 +3,5 @@
 #### Alt text:
 
 Xenia with a Joint wallpaper.
+
+Licensed under CC0 1.0.
