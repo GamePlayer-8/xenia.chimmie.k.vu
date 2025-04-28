@@ -10,5 +10,5 @@ In the background there's a luna of sunshine along with a little waterflame with
 
 My future pajama :3
 
-CC-by-NC-SA 4.0
+Licensed under CC BY-NC-SA 4.0.
 Made with Inkscape, GIMP and Python API.

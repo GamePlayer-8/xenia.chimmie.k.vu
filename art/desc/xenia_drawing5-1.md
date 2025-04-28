@@ -6,5 +6,5 @@ A drawing of Xenia what's showing Xenia sitting among pillows and having a Blåh
 
 Color gamma has been changed to gradient going from lime to pink.
 
-Chimmie has licensed that drawing under CC0 1.0
+Licensed under CC0 1.0.
 Made with Inkscape + effects made with GIMP.

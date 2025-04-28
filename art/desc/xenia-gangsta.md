@@ -5,3 +5,5 @@ Original sketch source - [here](https://twitter.com/cathodegaytube/status/147890
 #### Alt text:
 
 A proud Xenia smoking in front of you.
+
+Licensed under CC0 1.0.

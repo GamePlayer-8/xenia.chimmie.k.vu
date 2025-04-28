@@ -3,3 +3,5 @@
 #### Alt text:
 
 Xeniasoft with a M$-like branding style.
+
+Licensed under CC0 1.0.

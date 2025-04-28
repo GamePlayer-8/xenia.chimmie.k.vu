@@ -4,4 +4,4 @@
 
 A dirty drawing of Xenia in Inkscape.
 
-CC0 1.0
+Licensed under CC0 1.0.

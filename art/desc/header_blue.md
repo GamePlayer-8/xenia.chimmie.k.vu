@@ -3,3 +3,5 @@
 #### Alt text:
 
 Chimmie's header from 17.12.23.
+
+Licensed under CC0 1.0.

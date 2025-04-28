@@ -3,3 +3,5 @@
 #### Alt text:
 
 A Firefox icon with Xenia styling & head embedded.
+
+Licensed under CC0 1.0.
