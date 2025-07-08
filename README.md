@@ -8,7 +8,7 @@
 
 <p align="center" class="no-highlight">
   <a href="https://liberapay.com/chimmie/donate"><img height="35" alt=":donate:" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-  <a href="https://ci.codeberg.org/repos/12992"><img height="35" alt=":build:" src="https://ci.codeberg.org/api/badges/12992/status.svg"></a>
+  <a href="https://ci.chimmie.k.vu/repos/21"><img height="35" alt=":build:" src="https://ci.chimmie.k.vu/api/badges/21/status.svg"></a>
 </p>
 
 ### About
