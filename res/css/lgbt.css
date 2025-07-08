@@ -1,0 +1,25 @@
+.trans-text-horizontal {
+	display: inline-block;
+	vertical-align: middle;
+	background-image: linear-gradient(#00b3ff 35%, #fdb5ff 45%, #fff 50%, #fdb5ff 55%, #00b3ff 65%);
+	background-size: 100%;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-text-fill-color: transparent;
+	text-shadow: 0 0 2px rgba(255, 255, 255, 0.5);
+}
+
+.trans-text-vertical {
+	display: inline-block;
+	vertical-align: middle;
+	background-image: linear-gradient(90deg, #00b3ff, #fdb5ff, #fff, #fdb5ff, #00b3ff);
+	background-size: 100%;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-text-fill-color: transparent;
+	text-shadow: 0 0 2px rgba(255, 255, 255, 0.5);
+}
