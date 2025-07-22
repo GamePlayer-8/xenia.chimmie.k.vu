@@ -1,0 +1,59 @@
+# Bug report
+name: Bug report
+about: Report problems.
+title: '🐞 '
+labels: ['bug']
+assignees: ['GamePlayer-8']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for you for sharing a bug & letting me know.
+  - type: dropdown
+    id: component
+    attributes:
+      label: Component
+      description: To what component does your bug relates?
+      multiple: true
+      options:
+        - cli
+        - documentation
+        - codeberg-repo
+        - ci
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Describe the bug
+      description: Describe what's the bug about. Give as much information as possible.
+      placeholder: Description of your problem.
+    validations:
+      required: true
+  - type: textarea
+    id: version
+    attributes:
+      label: Version
+      description: Version of the software, where the bug happened.
+      render: shell
+      placeholder: Repository commit / version info.
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: |
+        Additional informations are always welcome!
+    validations:
+      required: false
+  - type: checkboxes
+    id: checkboxes
+    attributes:
+      label: Validations
+      description: Before submitting the issue, please make read the repository documentation & check if that issue isn't a duplicate.
+      options:
+        - label: I have read the documentation of the repository.
+        - label: I have checked in the issue tracker that my issue isn't a duplicate.
+
